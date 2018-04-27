@@ -1,0 +1,32 @@
+{"data":
+    [{
+        "zbId":3,
+        "zbName":"许颖",
+        "zbPhone":"18311173900",
+        "zbType":"值班主任",
+        "zbAddtime":1523416354000,
+        "zbStatus":1
+    },
+    {"zbId":4,
+    "zbName":"王佳丽",
+    "zbPhone":"18413232323",
+    "zbType":"票务主任",
+    "zbAddtime":1523416112000,
+    "zbStatus":1
+    },
+    {"zbId":5,
+    "zbName":"赵xx",
+    "zbPhone":"18752526363",
+    "zbType":"安全主任",
+    "zbAddtime":1523416147000,
+    "zbStatus":1
+    },
+    {"zbId":6,
+    "zbName":"麻xx",
+    "zbPhone":"18523232323",
+    "zbType":"车队主任",
+    "zbAddtime":1523416183000,
+    "zbStatus":1
+    }],
+"msg":"200"
+}
